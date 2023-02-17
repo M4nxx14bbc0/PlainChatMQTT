@@ -1,0 +1,25 @@
+{
+  "name": "plainchatmqtt",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Chat app using MQTT protocol (HiveMQ)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/M4nxx14bbc0/PlainChatMQTT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/M4nxx14bbc0/PlainChatMQTT/issues"
+  },
+  "homepage": "https://github.com/M4nxx14bbc0/PlainChatMQTT#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "mqtt": "^4.3.7",
+    "process": "^0.11.10"
+  }
+}
